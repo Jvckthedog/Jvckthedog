@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jvckthedog
 - 👀 I’m interested in learning code!
-- 🌱 I’m currently learning Javscript
+- 🌱 I’m currently learning HTML, CSS, and Javscript via the Odin Project
 - 💞️ I’m looking to collaborate on literally anything
 - 📫 How to reach me discord @jvckthedog
 - ⚡ Fun fact: im 29 years old, looking to get out of a career I have no interest in!
